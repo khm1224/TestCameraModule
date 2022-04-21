@@ -1,0 +1,32 @@
+<resources>
+    <string name="go_back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="zoom">Zoom Level</string>
+    <string name="manual_focus">Focus</string>
+    <string name="flash">Flash</string>
+    <string name="flash_on">On</string>
+    <string name="flash_off">Off</string>
+    <string name="capture">Shooting</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="show_menu">Open Menu</string>
+    <string name="hide_menu">Hide Menu</string>
+    <string name="video_start">Start</string>
+    <string name="video_stop">Stop</string>
+    <string name="video_play">Play</string>
+    <string name="permission_denied_msg">Authorization is required to execute the App.</string>
+    <string name="fail_focusing">Focusing Failure</string>
+    <string name="mute">Mute</string>
+    <string name="volume1">Volume 1</string>
+    <string name="volume2">Volume 2</string>
+    <string name="volume3">Volume 3</string>
+    <string name="volume4">Volume 4</string>
+    <string name="volume5">Volume 5</string>
+    <string name="volume6">Volume 6</string>
+    <string name="volume7">Volume 7</string>
+    <string name="volume8">Volume 8</string>
+    <string name="volume9">Volume 9</string>
+    <string name="volume10">Volume 10</string>
+    <string name="not_enough_storage">Not enough storage.</string>
+</resources>

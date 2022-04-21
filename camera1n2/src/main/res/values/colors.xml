@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="btnColor">#ffB2EBF4</color>
+    <color name="colorPink">#FFEAEA</color>
+    <color name="bridgeBtnNormal">#489CFF</color>
+    <color name="bridgeBtnTouch">#2524FF</color>
+    <color name="bridgeTextNormal">#000000</color>
+    <color name="mic_on">#eeeeee</color>
+    <color name="mic_off">#DEECF9</color>
+
+    <color name="graph_green">#6bd016</color>
+    <color name="graph_red">#fc5454</color>
+    <color name="graph_yellow">#ffab00</color>
+    <color name="graph_blue">#2150d7</color>
+
+    <color name="text_yellow">#fff700</color>
+
+    <color name="memo_color_1">#feeda8</color>
+    <color name="memo_color_2">#dcfbf9</color>
+    <color name="memo_color_3">#dff5ca</color>
+    <color name="memo_color_4">#ffeaf7</color>
+    <color name="memo_color_5">#ffe7c4</color>
+    <color name="memo_color_6">#ececec</color>
+
+    <color name="background">#a6e0ea</color>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_save_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="28px"
+            android:layout_marginRight="28px">
+
+            <TextView
+                android:id="@+id/info_cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_cancel"
+                android:contentDescription="hf_no_number"
+                android:gravity="center"
+                android:text="@string/cancel"
+                android:textColor="@color/colorWhite"
+                android:textSize="18px"
+                android:layout_marginRight="10px"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/info_save_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_save"
+                android:contentDescription="hf_no_number"
+                android:layout_gravity="bottom|right"
+                android:gravity="center"
+                android:text="@string/save"
+                android:textColor="@color/colorWhite"
+                android:textSize="18px"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+</LinearLayout>

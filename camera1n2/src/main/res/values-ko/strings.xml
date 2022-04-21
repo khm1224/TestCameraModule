@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_back">뒤로</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="zoom">줌 레벨</string>
+    <string name="manual_focus">수동 초점</string>
+    <string name="flash">플래시</string>
+    <string name="flash_on">켜짐</string>
+    <string name="flash_off">꺼짐</string>
+    <string name="capture">촬영</string>
+    <string name="photo">사진</string>
+    <string name="video">비디오</string>
+    <string name="show_menu">메뉴 열기</string>
+    <string name="hide_menu">메뉴 닫기</string>
+    <string name="video_start">녹화</string>
+    <string name="video_stop">중지</string>
+    <string name="video_play">재생</string>
+    <string name="permission_denied_msg">권한이 허용되지 않으면 앱을 실행 할 수 없습니다.</string>
+    <string name="fail_focusing">포커싱 실패</string>
+    <string name="mute">음소거</string>
+    <string name="volume1">볼륨 1</string>
+    <string name="volume2">볼륨 2</string>
+    <string name="volume3">볼륨 3</string>
+    <string name="volume4">볼륨 4</string>
+    <string name="volume5">볼륨 5</string>
+    <string name="volume6">볼륨 6</string>
+    <string name="volume7">볼륨 7</string>
+    <string name="volume8">볼륨 8</string>
+    <string name="volume9">볼륨 9</string>
+    <string name="volume10">볼륨 10</string>
+    <string name="not_enough_storage">저장 용량이 부족합니다.</string>
+</resources>

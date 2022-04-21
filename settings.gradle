@@ -1,0 +1,3 @@
+include ':camera1n2'
+include ':app'
+rootProject.name = "TestCameraModule"
